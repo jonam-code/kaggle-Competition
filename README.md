@@ -33,3 +33,11 @@ NOTE: Enroll yourself as regnum_name (Eg. 2048001_Adarsh)save your submissions i
 
 
 # kaggle-Competition 3
+
+Please note that this time the task is associated with forecasting where you need to forecast future temperature values.  Do all the required preprocessing. This time there is no threshold given. So the student who is able to come up with less MSE will be the winner of the competition.
+
+Link: https://www.kaggle.com/t/319cd9d5bc0d42afbd8ddf8e843f3682
+
+Submit your results on Kaggle and also Upload your .ipynb file and PDF here
+
+
