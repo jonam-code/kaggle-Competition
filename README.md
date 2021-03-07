@@ -14,8 +14,6 @@ https://www.kaggle.com/t/c9882abe851548b0b2307787cbe9daa0
 
 NOTE: save your submissions in the following format regnum_task1_modelname.csv
 
-
-
 # kaggle-Competition 2
 
 Lets have a journey full of machine learning adventures (MacVentures) through Kaggle challenge.
