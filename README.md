@@ -28,7 +28,8 @@ PFA containing problem statement of Task2
 Join the competition through the link given below:
 https://www.kaggle.com/c/mds-macventures-classification-task2/overview
 
-NOTE: Enroll yourself as regnum_name (Eg. 2048001_Adarsh)save your submissions in the following format regnum_task2_modelname.csv
+NOTE: Enroll yourself as regnum_name (Eg. 2048015_Manoj)save your submissions in the following format regnum_task2_modelname.csv
+
 
 
 # kaggle-Competition 3
