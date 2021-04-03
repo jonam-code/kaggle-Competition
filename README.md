@@ -31,6 +31,7 @@ https://www.kaggle.com/c/mds-macventures-classification-task2/overview
 NOTE: Enroll yourself as regnum_name (Eg. 2048015_Manoj)save your submissions in the following format regnum_task2_modelname.csv
 
 
+
 # kaggle-Competition 3
 
 Please note that this time the task is associated with forecasting where you need to forecast future temperature values.  Do all the required preprocessing. This time there is no threshold given. So the student who is able to come up with less MSE will be the winner of the competition.
